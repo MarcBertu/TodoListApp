@@ -1,2 +1,5 @@
 # TodoListApp
-First iOS app with SwiftUI
+
+Status : ✅
+
+A little and simple todo list App in SwiftUI.
